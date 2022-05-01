@@ -19,4 +19,4 @@
 <br>
 <br>
 
-![photo](https://github.com/Emanuel181/KillerMemory/blob/f917fae7347b6a1482703020fd8d3062693e6837/Capture.PNG)
+![photo](https://github.com/Emanuel181/BubbleSort_Visualizer/blob/f0032c3109cde6e10a17119a0ffa907f8d943c1a/Capture.PNG)
