@@ -20,3 +20,8 @@
 <br>
 
 ![photo](https://github.com/Emanuel181/BubbleSort_Visualizer/blob/f0032c3109cde6e10a17119a0ffa907f8d943c1a/Capture.PNG)
+
+<br>
+<br>
+
+![photo](https://github.com/Emanuel181/BubbleSort_Visualizer/blob/1abe7b543231fcb7d85cd993bdd9335a58611297/Capture2.PNG)
