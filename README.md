@@ -1,6 +1,6 @@
 # BubbleSort visualizer project <img height="52" width="52" src = "https://user-images.githubusercontent.com/92999481/166147990-144aa2f9-0a2e-4ecf-b934-f996ca010f31.png">
 
-```From the desire to better understand sorting algorithms, I developed a visualizer for a sorting algorithm called "Bubble Sort".```
+```From the desire to better understand sorting algorithms, I developed a visualizer for a sorting algorithm called "Bubble Sort"```.
 
 <hr>
 <br>
